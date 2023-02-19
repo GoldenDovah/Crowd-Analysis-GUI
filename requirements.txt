@@ -51,3 +51,15 @@ urllib3==1.26.7
 Werkzeug==2.0.2
 wrapt==1.12.1
 zipp==3.6.0
+
+customtkinter==5.0.5
+imutils==0.5.4
+numpy==1.23.4
+opencv_python_headless==4.7.0.68
+Pillow==9.4.0
+pygame==2.1.2
+scipy==1.8.1
+tensorflow==2.11.0
+tensorflow_intel==2.10.0
+twilio==7.16.0
+
